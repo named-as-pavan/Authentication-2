@@ -61,7 +61,7 @@ const ForgotPasswordPage = () => {
         >
           <Mail className='h-8 w-8 text-gray-800' />
         </motion.div>
-        <p className='text-gray-700 mb-6'>
+        <p className='text-gray-300 mb-6'>
           If an account exists for {email}, you will receive a password reset link shortly.
         </p>
       </div>
